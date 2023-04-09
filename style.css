@@ -1,13 +1,16 @@
-div {
-    background-color: red;
-    color: white;
-    font-size: 32px;
+
+.odin-head{
+    border: 2px solid green;
+    background-color:red;
+    color:white;
+    font-size: 32;
     text-align: center;
     font-weight: bold;
   }
 
-p {
-    background-color: blue;
+.alert-text{
+    border: 2px solid red;
+    background-color:GREEN;
     color:white;
     font-size: 32;
     text-align: center;
